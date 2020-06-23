@@ -5,7 +5,4 @@ Graduation thesis of USTS
 
 WebGIS，树莓派；
 
-## Xiao BIAN
-
-格陵兰岛质量变化；
 
